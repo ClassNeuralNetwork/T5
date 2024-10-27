@@ -14,10 +14,10 @@ Os modelos aplicados nos exemplos incluem:
 
 ## Pré-requisitos
 
-Python 3.8+
-Transformers da Hugging Face
-PyTorch ou TensorFlow (aqui dependende do backend preferido)
+- Python 3.8+
+- Transformers da Hugging Face
+- PyTorch ou TensorFlow (aqui dependende do backend preferido)
 
 para utilizar a biblioteca do huggingface, instale o transformers: pip install transformers.
 
-- Toda a exploração prática do modelo está disponível no arquivo T5_usage.ipynb
+### **Toda a exploração prática do modelo está disponível no arquivo T5_usage.ipynb**

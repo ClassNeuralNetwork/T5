@@ -1,6 +1,6 @@
 # T5
 
-## Respositório dedidcado a exploração prática do modelo T5.
+## Respositório dedidcado à exploração prática do modelo T5.
 
 Este repositório contém exemplos que exercitam o modelo T5 (Text-To-Text Transfer Transformer) desenvolvido pela Google que realiza diversas tarefas de NLP. Todos os exemplos foram implementados utilizando o Hugging Face Transformers(https://huggingface.co/).
 
